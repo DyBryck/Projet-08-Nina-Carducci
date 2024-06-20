@@ -3,7 +3,7 @@ body {
   margin: auto;
 }
 * {
-  font-family: "Inter";
+  font-family: "Inter Open Sans", "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
 }
 .top-header {
